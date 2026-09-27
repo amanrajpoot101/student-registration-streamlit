@@ -5,7 +5,7 @@ import datetime
 
 
 st.title("🎓 Student Registration")
-
+st.image("images/PROFILE .jpeg", width=300)
 
 # -------------------------
 # PostgreSQL connection
